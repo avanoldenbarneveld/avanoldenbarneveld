@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+Hey, I’m Alberto! 👋<br><br>I recently finished a bootcamp where I learned **HTML, CSS, JavaScript, Node.js, SQL, Express, React, and Agile methodologies**, along with the basics of working in a terminal. Now, I’m focused on **solving DSA problems** and **building projects from scratch** to improve my understanding of real-world development.<br><br>My current project is a **movie web app using the IMDB API**, where I’m diving into **TypeScript and React**, learning how to properly structure a project, organize work with commits, and integrate testing from the start.<br><br>I love learning how to tackle **hard technical problems** and developing my ability to **think abstractly and logically**. Nothing beats the satisfaction of **pushing my limits** and ending the day with my brain completely fried from problem-solving. I enjoy working in **high-performance teams** with **tight deadlines and strong communication**, and my goal is to **write quality code from the ground up**.<br><br>Outside of coding, I’m into **Sim Racing, Weightlifting, and Coffee** – always chasing better lap times, stronger lifts, and the perfect brew. ☕🏎️🏋️‍♂️<br><br>
 
-<!--
-**avanoldenbarneveld/avanoldenbarneveld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/albertovan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avanoldenba@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=avanoldenbarneveld&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=avanoldenbarneveld&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=avanoldenbarneveld&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
