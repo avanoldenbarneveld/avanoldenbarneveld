@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hey, I’m Alberto! 👋<br><br>I recently finished a bootcamp where I learned **HTML, CSS, JavaScript, Node.js, SQL, Express, React, and Agile methodologies**, along with the basics of working in a terminal. Now, I’m focused on **solving DSA problems** and **building projects from scratch** to improve my understanding of real-world development.<br><br>My current project is a **movie web app using the IMDB API**, where I’m diving into **TypeScript and React**, learning how to properly structure a project, organize work with commits, and integrate testing from the start.<br><br>I love learning how to tackle **hard technical problems** and developing my ability to **think abstractly and logically**. Nothing beats the satisfaction of **pushing my limits** and ending the day with my brain completely fried from problem-solving. I enjoy working in **high-performance teams** with **tight deadlines and strong communication**, and my goal is to **write quality code from the ground up**.<br><br>Outside of coding, I’m into **Sim Racing, Weightlifting, and Coffee** – always chasing better lap times, stronger lifts, and the perfect brew. ☕🏎️🏋️‍♂️<br><br>
 
 
@@ -11,5 +10,3 @@ Hey, I’m Alberto! 👋<br><br>I recently finished a bootcamp where I learned *
 ![](https://github-readme-stats.vercel.app/api?username=avanoldenbarneveld&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=avanoldenbarneveld&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=avanoldenbarneveld&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
