@@ -1,12 +1,11 @@
 ## Hi, I’m Alberto 👋
 
 I’m a software developer who thinks in systems.  
-
 I work at **Inbiot**, building and maintaining the **MyInbiot** platform, a cloud-based product that collects and visualizes indoor air quality data.
 
 My work covers **React** and **React Native** on the front end, and **Node.js**, **Python**, and **AWS** on the back end. I care about clarity, structure, and code that lasts.
 
-I like understanding how each part fits together — code, infrastructure, design, and process — so I can improve them intentionally.  
+I like understanding how each part fits together: code, infrastructure, design, and process. That helps me improve them intentionally.  
 Right now I’m focusing on **TypeScript**, **testing**, and **cloud architecture**.
 
 Outside of code, I enjoy **weightlifting**, **sim racing**, and **brewing coffee**, all things that reward precision and patience. ☕🏎️🏋️‍♂️
