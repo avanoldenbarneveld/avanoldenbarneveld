@@ -1,4 +1,17 @@
-Hey, I’m Alberto! 👋<br><br> I love learning how to tackle **hard technical problems** and developing my ability to **think abstractly and logically**. Nothing beats the satisfaction of **pushing my limits** and ending the day with my brain completely fried from problem-solving. I enjoy working in **high-performance teams** with **tight deadlines and strong communication**, and my goal is to **write quality code from the ground up**.<br><br>Outside of coding, I’m into **Sim Racing, Weightlifting, and Coffee** – always chasing better lap times, stronger lifts, and the perfect brew. ☕🏎️🏋️‍♂️<br><br>
+## Hi, I’m Alberto 👋
+
+I’m a software developer who thinks in systems.  
+I work at **Inbiot**, building and maintaining the **MyInbiot** platform, a cloud-based product that collects and visualizes indoor air quality data.
+
+My work covers **React** and **React Native** on the front end, and **Node.js**, **Python**, and **AWS** on the back end. I care about clarity, structure, and code that lasts.
+
+I like understanding how each part fits together — code, infrastructure, design, and process — so I can improve them intentionally.  
+Right now I’m focusing on **TypeScript**, **testing**, and **cloud architecture**.
+
+Outside of code, I enjoy **weightlifting**, **sim racing**, and **brewing coffee**, all things that reward precision and patience. ☕🏎️🏋️‍♂️
+
+If you want to see how I think through problems, visit [albertovan.com](https://albertovan.com), where I write about systems, tools, and learning.
+
 
 
 ## 🌐 Socials:
