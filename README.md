@@ -19,4 +19,4 @@ Outside of code, I enjoy weightlifting, sim racing, and brewing coffee, all endl
 
 I have a website where I try to make sense of what I see and feel by writing out what I think. You can visit it [here](https://albertovan.com).
 
-If you have questions or just curious don't doubt to contact me. Seriously. I'm always happy to help and to chat.
+If you have questions or are just curious don't doubt to contact me. Seriously. I'm always happy to chat.
