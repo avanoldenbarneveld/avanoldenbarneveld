@@ -17,6 +17,6 @@ My work covers React and React Native on the front end, and Node.js, Python, and
 
 Outside of code, I enjoy weightlifting, sim racing, and brewing coffee, all endlessly deep hobbies that become more rewarding the more time you invest in them.
 
-I have a website where I try to make sense of what I see and feel by writing out how I think. You can visit it [here](https://albertovan.com).
+I have a website where I try to make sense of what I see and feel by writing out what I think. You can visit it [here](https://albertovan.com).
 
 If you have questions or just curious don't doubt to contact me. Seriously. I'm always happy to help and to chat.
