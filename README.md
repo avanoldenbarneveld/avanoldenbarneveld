@@ -2,7 +2,7 @@
 
 My name is Alberto.
 
-I’m a software developer, and I define myself as someone who thinks in systems. I always look at the bigger picture and try to be conscious of how what I do fits in. I believe that code is a means to an end, and every implementation of it is a tradeoff. The goal should be to make a product that solves very specific problems, which is what most of the time should be spent thinking about.
+I’m a software developer, and I define myself as someone who thinks in systems. I always look at the bigger picture and try to be conscious of how what I do fits in. I believe that code is a means to an end, and every implementation of it a tradeoff. The goal should be to make a product that solves very specific problems, which is what most of the time should be spent thinking about.
 
 In my journey as a software developer, I have mainly three goals:
 
