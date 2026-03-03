@@ -7,8 +7,8 @@ I’m a software developer, and I define myself as someone who thinks in systems
 In my journey as a software developer, I have mainly three goals:
 
 1. To be the best software developer I can be.
-2. To be part of a team that makes its members better simply by being in it.
-3. To make a great product that genuinely helps people.
+2. To be part of a team that makes its members better by virtue of being in it.
+3. To make a product that genuinely helps people.
 
 I currently work at Inbiot, where I build and maintain the MyInbiot platform, a cloud-based product that collects and visualizes indoor air quality data.
 
